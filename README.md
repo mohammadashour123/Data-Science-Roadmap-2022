@@ -59,22 +59,22 @@
 
 
 # Beginner : 
-1. Descriptive Statisitcs .
+### 1. Descriptive Statisitcs .
 * [Arabic Course 1](https://www.youtube.com/playlist?list=PLC4LFcwOQGSHbmds9_2ue9Z5kJY9hG71n)
 * [Arabic Course 2](https://www.youtube.com/playlist?list=PLiwp6r-sv0A4i9LXS1IrjJYCIfh5QQCDA)
 * [Udacity Course](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
 * [Practica Statistics for Data Scientists](https://drive.google.com/file/d/1_SDpyrvcg_Hm9sV0vPiJjCqcGSbbQiGf/view?usp=sharing)
 
-2. Probability
+### 2. Probability
 * [Probability 1](https://www.khanacademy.org/math/statistics-probability/probability-library)
 * [Probability 2](https://www.coursera.org/learn/probability-theory-statistics)
 * [Arabic Course](https://www.youtube.com/playlist?list=PL158D091D26F47358)
 
-3. Data Analysis (Python)
+### 3. Data Analysis (Python)
 * [Introduction to Python Programming](https://classroom.udacity.com/courses/ud1110)
 * [OOP](https://www.youtube.com/playlist?list=PLUgz8T_NoattU54gGARPXPmmawQNl-1_T)
 
-4. Pandas
+### 4. Pandas
 *	[Playlist-YouTube](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
 *	[Arabic Playlist](https://www.youtube.com/playlist?list=PLNJJ29ohdyWnPAledu3C8CiPrct3nUSj2)
 *	[Complete Pandas Tutorial In Arabic](https://www.youtube.com/watch?v=ABTO5hi9AsU&t=464s)
@@ -84,13 +84,13 @@
 *	[Playlist-YouTube](https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=1)
 *	[Arabic Course](https://www.youtube.com/watch?v=3ISW655DemU&list=PLvLvlVqNQGHCb2_ygmr1DQOMOv0yXp84F)
 
-5. NumPy
+### 5. NumPy
 * [Arabic Course](https://www.youtube.com/playlist?list=PLNJJ29ohdyWlSrPZiehK6AtvBgOF4UlL2)
 * [Complete Python NumPy Tutorial](https://www.youtube.com/watch?v=GB9ByFAIAH4&t=2686s)
 * [Kaggle](https://www.kaggle.com/legendadnan/numpy-tutorial-for-beginners-data-science)
 * [Numpy documentation](https://numpy.org/doc/1.18/user/quickstart.html)
 
-6. Data Cleaning: 
+### 6. Data Cleaning: 
 *One of the MOST important skills that*  you need to master to become a good data scientist,  you need to practice on many datasets to master it.
 * [Course 1](https://www.datacamp.com/courses/cleaning-data-in-python)
 * [Notebook1](https://www.kaggle.com/bandiatindra/telecom-churn-prediction)
@@ -100,7 +100,7 @@
 * [Kaggle Data cleaning](https://www.kaggle.com/learn/data-cleaning)
 
 
-7. Data Visualization
+### 7. Data Visualization
 * [What is  Data Visualization in Arabic ?](https://youtu.be/MTq06WYQ5PI)
 * [Arabic Course on Udemy.](https://www.udemy.com/course/data-visualization-in-python-using-matplotlib-and-seaborn/learn/?referralCode=C5AED7BE87917168F992)
 * [Introduction to Data Visualization with Matplotlib](https://www.datacamp.com/users/sign_in?redirect=http%3A%2F%2Fapp.datacamp.com%2Flearn%2Fcourses%2Fintroduction-to-data-visualization-with-matplotlib%3Ffbclid%3DIwAR1OrJSdZ2LVD_c1o3d-_1I7Nhq8OZ3pzTu4010E_XWEmMc0KYsTosz8CIU)
@@ -110,7 +110,7 @@
 * [Exploratory Data Analysis and Visualization in Data Science In Arabic](https://www.youtube.com/playlist?list=PLNJJ29ohdyWkfIg0qwXNTusZtSn3podZL)
 * [DataCamp-EDA in Python](https://www.datacamp.com/users/sign_in?redirect=http%3A%2F%2Fapp.datacamp.com%2Flearn%2Fcourses%2Fexploratory-data-analysis-in-python)
 
-8. Projects Tutorials:
+### 8. Projects Tutorials:
 * [ Project 1](https://www.youtube.com/playlist?list=PLNJJ29ohdyWl0ubsNvz63aFQ5Hic36c8T)
 * [Project 2 ](https://www.youtube.com/watch?v=o8ydzhbW8B8&t=5s)
 * Wait for more projects soon 
