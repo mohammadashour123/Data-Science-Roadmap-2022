@@ -59,6 +59,7 @@
 
 
 # Beginner : 
+*You can start in al least on course in each topic , feel free to select the best course for you and all courses have same content *
 ### 1. Descriptive Statisitcs .
 * [Arabic Course 1](https://www.youtube.com/playlist?list=PLC4LFcwOQGSHbmds9_2ue9Z5kJY9hG71n)
 * [Arabic Course 2](https://www.youtube.com/playlist?list=PLiwp6r-sv0A4i9LXS1IrjJYCIfh5QQCDA)
