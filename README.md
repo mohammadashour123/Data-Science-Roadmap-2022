@@ -117,7 +117,35 @@
 * Wait for more projects soon 
 
 ### 9. SQL and DB
-* [Intro to SQL or IBM](https://www.datacamp.com/users/sign_in?redirect=http%3A%2F%2Fapp.datacamp.com%2Flearn%2Fcourses%2Fintroduction-to-sql)[IBM](https://www.coursera.org/learn/sql-data-science)
+* [Intro to SQL](https://www.datacamp.com/users/sign_in?redirect=http%3A%2F%2Fapp.datacamp.com%2Flearn%2Fcourses%2Fintroduction-to-sql)[or IBM](https://www.coursera.org/learn/sql-data-science)
 * [Intro to Relational Databases in SQL](https://www.datacamp.com/users/sign_in?redirect=http%3A%2F%2Fapp.datacamp.com%2Flearn%2Fcourses%2Fintroduction-to-relational-databases-in-sql&__cf_chl_tk=gitzqwAHWWnv85W2fRoyvsxOuMgTRRkJNwtaodRozzY-1656935178-0-gaNycGzND70)
 * [Arabric Course](https://www.youtube.com/watch?v=B7evUQGmN6M&list=PLfM2wZNebA2zROxUcAbGxNrpVZncsF3oD)
 * [Joining Data in SQL](https://www.datacamp.com/courses/joining-data-in-postgresql)
+
+# Intermediate
+### 1. Math for ML consists of Linear Algebra, Calculus and PCA.
+* [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)
+
+### 2. Linear Algebra
+* [Khan Academy - Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
+* [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)
+
+### 3. Calculus
+* [Multivariate Calculus - Coursera](https://www.coursera.org/learn/multivariate-calculus-machine-learning?fbclid=IwAR243aoz0jxs4iUn539pnjSQliXtr7Y5QAsvgeRTietZT_tkyoRU3b6Sq1o)
+
+### 4. PCA
+* [PCA](https://www.coursera.org/learn/pca-machine-learning)
+
+### 5 . Machine Learning
+* [Coursera Free Course by Andrew Ng (Octave/Matlab)](https://www.coursera.org/learn/machine-learning)
+* [Coursera Andrew new ML Specialization (Python)](https://www.coursera.org/specializations/machine-learning-introduction?_hsenc=p2ANqtz-_R9x3Nm07uCw6YAw9VpCpdjRdfaUFyxdOcvgDljRt7j_NXiahN1plnI_Ob9jn0jSNipuE_Y08llrfPSt_1P7EBvj4LuImpBTKG3bsR6Z9bzjzBoRY&_hsmi=216611333&action=enroll&utm_campaign=mls-launch-2022&utm_content=216613012&utm_medium=email&utm_source=hs_email#courses)
+* [Machine Learning Stanford Full Course on YouTube by Andrew](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+* [Introduction to Machine Learning Course - Udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+* [IBM ML with Python](https://www.coursera.org/learn/machine-learning-with-python)
+* [Project](https://www.coursera.org/learn/applied-data-science-capstone)
+
+### 6. Web Scraping
+* [course](https://www.datacamp.com/users/sign_in?redirect=http%3A%2F%2Fapp.datacamp.com%2Flearn%2Fcourses%2Fweb-scraping-with-python)
+* [Tutorial](https://realpython.com/beautiful-soup-web-scraper-python/)
+* [Web Scraping with Python Beautiful Soup](https://www.youtube.com/watch?v=q0ert5YP968&t=1435s)
+* [Python Tutorial: Web Scraping with BeautifulSoup and Requests](https://www.youtube.com/watch?v=ng2o98k983k)
