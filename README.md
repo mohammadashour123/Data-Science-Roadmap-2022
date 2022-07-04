@@ -149,3 +149,26 @@
 * [Tutorial](https://realpython.com/beautiful-soup-web-scraper-python/)
 * [Web Scraping with Python Beautiful Soup](https://www.youtube.com/watch?v=q0ert5YP968&t=1435s)
 * [Python Tutorial: Web Scraping with BeautifulSoup and Requests](https://www.youtube.com/watch?v=ng2o98k983k)
+
+### 7. Feature Engineering
+* [Kaggle Tutorial](https://www.kaggle.com/learn/feature-engineering)
+* [Youtube](https://www.youtube.com/playlist?list=PLZoTAELRMXVPwYGE2PXD3x0bfKnR0cJjN)
+
+# Advanced
+### 1. Deep Learning
+* [Deep Learning Fundamentals](https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)
+* [Introduction to Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7mlHvdvs4sMUm2D6RLYVwFpp2nT2t1Zj1GGy3QAWQvQ)
+* [Specialization](https://www.coursera.org/specializations/deep-learning)
+* [Stanford Lecture - Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+
+### 2. Tensorflow
+* [Specialization](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
+* [Youtube](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)
+
+### 3.Advanced Data Science
+* [Advanced Data Science with IBM Specialization](https://www.coursera.org/specializations/advanced-data-science-ibm)
+
+### 4. Model Deployment
+* [Flask tutorial](https://towardsdatascience.com/deploying-a-deep-learning-model-using-flask-3ec166ef59fb)
+* [TensorFlow: Data and Deployment Specialization](https://www.coursera.org/specializations/tensorflow-data-and-deployment)
+* [Deploy Models with TensorFlow Serving and Flask](https://www.coursera.org/projects/deploy-models-tensorflow-serving-flask)
