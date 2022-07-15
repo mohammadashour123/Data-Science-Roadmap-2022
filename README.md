@@ -102,6 +102,7 @@
 * [Notebook 4](https://www.kaggle.com/ashishg21/data-cleaning-and-some-analysis-shoe-prices)
 * [Notebook 5](https://github.com/mohammadashour123/Data-Science-Project-Glassdoor-job-Data)
 * [Notebook 6](https://github.com/mohammadashour123/laptop-price-analysis-and-prediction-/blob/main/laptop%20price%20analysis%20and%20prediction%20.ipynb)
+* [Notebook 7](https://github.com/mohammadashour123/Complete-Pandas-Tutorial-How-to-Clean-and-Manipulating-Data-with-Pandas/blob/main/Cleaning%20and%20Manipulating%20Data%20in%20Pandas.ipynb)
 * [Kaggle Data cleaning](https://www.kaggle.com/learn/data-cleaning)
 
 
