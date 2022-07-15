@@ -97,7 +97,7 @@
 * [Notebook1](https://www.kaggle.com/bandiatindra/telecom-churn-prediction)
 * [Notebook2](https://drive.google.com/drive/folders/1OQAEQ8rC4j6oBP7AyDU4bKpPr8sSStJI?fbclid=IwAR2dSrbyoZLM-Wm57yEYy8L8PmpPV9hqXdkNf-pURJC5C5xCz7UJB4YpJ7M)
 * [Notebook3](https://www.kaggle.com/ashishg21/data-cleaning-and-some-analysis-shoe-prices)
-* [Notebook3](Cleaning-and-Manipulating-Data-in-Pandas)
+* [Notebook3]([Cleaning-and-Manipulating-Data-in-Pandas](https://github.com/mohammadashour123/Data-Science-Project-Glassdoor-job-Data))
 * [Kaggle Data cleaning](https://www.kaggle.com/learn/data-cleaning)
 
 
