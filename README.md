@@ -80,6 +80,7 @@
 *	[Arabic Playlist](https://www.youtube.com/playlist?list=PLNJJ29ohdyWnPAledu3C8CiPrct3nUSj2)
 *	[Complete Pandas Tutorial In Arabic](https://www.youtube.com/watch?v=ABTO5hi9AsU&t=464s)
 *	[Complete-Pandas-Tutorial-How-to-Clean-and-Manipulating-Data-with-Pandas Notebook](https://github.com/mohammadashour123/Complete-Pandas-Tutorial-How-to-Clean-and-Manipulating-Data-with-Pandas)
+*	[Notebook](https://github.com/mohammadashour123/Python_Machine_Learning_Cookbook_Practical_Solutions_from_Preprocessing-2-/tree/main/CH3-%20%20Data%20Wrangling)
 *	[Kaggle](https://www.kaggle.com/learn/pandas)
 *	[pandas 0.15.2 documentation](https://pandas.pydata.org/pandas-docs/version/0.15/tutorials.html)
 *	[Playlist-YouTube](https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=1)
@@ -87,6 +88,7 @@
 
 ### 5. NumPy
 * [Arabic Course](https://www.youtube.com/playlist?list=PLNJJ29ohdyWlSrPZiehK6AtvBgOF4UlL2)
+* [Notebook](https://github.com/mohammadashour123/Python_Machine_Learning_Cookbook_Practical_Solutions_from_Preprocessing-2-/blob/main/CH%201%20-%20Vectors%2C%20Matrices%2C%20and%20Arrays%2C%20Python%20Machine%20Learning%20Cookbook/Chapter%201%2CVectors%2C%20Matrices%2C%20and%20Arrays.ipynb)
 * [Complete Python NumPy Tutorial](https://www.youtube.com/watch?v=GB9ByFAIAH4&t=2686s)
 * [Kaggle](https://www.kaggle.com/legendadnan/numpy-tutorial-for-beginners-data-science)
 * [Numpy documentation](https://numpy.org/doc/1.18/user/quickstart.html)
@@ -94,10 +96,12 @@
 ### 6. Data Cleaning: 
 *One of the MOST important skills that*  you need to master to become a good data scientist,  you need to practice on many datasets to master it.
 * [Course 1](https://www.datacamp.com/courses/cleaning-data-in-python)
-* [Notebook1](https://www.kaggle.com/bandiatindra/telecom-churn-prediction)
-* [Notebook2](https://drive.google.com/drive/folders/1OQAEQ8rC4j6oBP7AyDU4bKpPr8sSStJI?fbclid=IwAR2dSrbyoZLM-Wm57yEYy8L8PmpPV9hqXdkNf-pURJC5C5xCz7UJB4YpJ7M)
-* [Notebook3](https://www.kaggle.com/ashishg21/data-cleaning-and-some-analysis-shoe-prices)
-* [Notebook3]([Cleaning-and-Manipulating-Data-in-Pandas](https://github.com/mohammadashour123/Data-Science-Project-Glassdoor-job-Data))
+* [Notebook 1](https://github.com/mohammadashour123/Cleaning-and-Manipulating-Data-in-Pandas)
+* [Notebook 2](https://www.kaggle.com/bandiatindra/telecom-churn-prediction)
+* [Notebook 3](https://drive.google.com/drive/folders/1OQAEQ8rC4j6oBP7AyDU4bKpPr8sSStJI?fbclid=IwAR2dSrbyoZLM-Wm57yEYy8L8PmpPV9hqXdkNf-pURJC5C5xCz7UJB4YpJ7M)
+* [Notebook 4](https://www.kaggle.com/ashishg21/data-cleaning-and-some-analysis-shoe-prices)
+* [Notebook 5](https://github.com/mohammadashour123/Data-Science-Project-Glassdoor-job-Data)
+* [Notebook 6](https://github.com/mohammadashour123/laptop-price-analysis-and-prediction-/blob/main/laptop%20price%20analysis%20and%20prediction%20.ipynb)
 * [Kaggle Data cleaning](https://www.kaggle.com/learn/data-cleaning)
 
 
