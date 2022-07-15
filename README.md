@@ -115,6 +115,7 @@
 * [ Project 1](https://www.youtube.com/playlist?list=PLNJJ29ohdyWl0ubsNvz63aFQ5Hic36c8T)
 * [Project 2 ](https://www.youtube.com/watch?v=o8ydzhbW8B8&t=5s)
 * [Project 3 ](https://www.youtube.com/playlist?list=PLNJJ29ohdyWmkswZMj8_GAN4qIYQ1HqiN)
+* [Project 4](https://www.youtube.com/watch?v=rbl6E5JSTVo&t=1586s)
 * Wait for more projects soon 
 
 ### 9. SQL and DB
