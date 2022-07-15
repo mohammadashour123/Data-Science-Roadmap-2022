@@ -116,14 +116,20 @@
 * [Exploratory Data Analysis and Visualization in Data Science In Arabic](https://www.youtube.com/playlist?list=PLNJJ29ohdyWkfIg0qwXNTusZtSn3podZL)
 * [DataCamp-EDA in Python](https://www.datacamp.com/users/sign_in?redirect=http%3A%2F%2Fapp.datacamp.com%2Flearn%2Fcourses%2Fexploratory-data-analysis-in-python)
 
-### 8. Projects Tutorials:
+### 8. Books : 
+* [ Python Machine Learning Cookbook](https://youtu.be/5yC_6K2PTEs)
+*[CH 1 VIDEOS ](https://www.youtube.com/playlist?list=PLNJJ29ohdyWlSrPZiehK6AtvBgOF4UlL2)
+*[CH 3 VIDEOS](https://www.youtube.com/playlist?list=PLNJJ29ohdyWnPAledu3C8CiPrct3nUSj2)
+
+
+### 9. Projects Tutorials:
 * [ Project 1](https://www.youtube.com/playlist?list=PLNJJ29ohdyWl0ubsNvz63aFQ5Hic36c8T)
 * [Project 2 ](https://www.youtube.com/watch?v=o8ydzhbW8B8&t=5s)
 * [Project 3 ](https://www.youtube.com/playlist?list=PLNJJ29ohdyWmkswZMj8_GAN4qIYQ1HqiN)
 * [Project 4](https://www.youtube.com/watch?v=rbl6E5JSTVo&t=1586s)
 * Wait for more projects soon 
 
-### 9. SQL and DB
+### 10. SQL and DB
 * [Intro to SQL](https://www.datacamp.com/users/sign_in?redirect=http%3A%2F%2Fapp.datacamp.com%2Flearn%2Fcourses%2Fintroduction-to-sql)[or IBM](https://www.coursera.org/learn/sql-data-science)
 * [Intro to Relational Databases in SQL](https://www.datacamp.com/users/sign_in?redirect=http%3A%2F%2Fapp.datacamp.com%2Flearn%2Fcourses%2Fintroduction-to-relational-databases-in-sql&__cf_chl_tk=gitzqwAHWWnv85W2fRoyvsxOuMgTRRkJNwtaodRozzY-1656935178-0-gaNycGzND70)
 * [Arabric Course](https://www.youtube.com/watch?v=B7evUQGmN6M&list=PLfM2wZNebA2zROxUcAbGxNrpVZncsF3oD)
