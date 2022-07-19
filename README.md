@@ -135,6 +135,9 @@
 * [Arabric Course](https://www.youtube.com/watch?v=B7evUQGmN6M&list=PLfM2wZNebA2zROxUcAbGxNrpVZncsF3oD)
 * [Joining Data in SQL](https://www.datacamp.com/courses/joining-data-in-postgresql)
 
+### 11. Data Analysis With Python
+* [IBM Course](https://www.coursera.org/learn/data-analysis-with-python)
+
 # Intermediate
 ### 1. Math for ML consists of Linear Algebra, Calculus and PCA.
 * [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)
