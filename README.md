@@ -201,3 +201,79 @@ Regression is a part of supervised ML. Regression models investigate the relatio
 * Polynomial Regression has a regression equation with the power of independent variable more than 1. It is a curve that fits into the data points.
 * Ridge Regression helps when predictors are highly correlated (multicollinearity problem). It penalizes the squares of regression coefficients but doesn’t allow the coefficients to reach zeros (uses L2 regularization).
 * Lasso Regression penalizes the absolute values of regression coefficients and allows some of the coefficients to reach absolute zero (thereby allowing feature selection).
+
+## What is linear regression? When do we use it? 
+* Linear regression is a model that assumes a linear relationship between the input variables (X) and the single output variable (y).
+
+## Which metrics for evaluating regression models do you know? 
+* Mean Squared Error(MSE)
+* Root Mean Squared Error(RMSE)
+* Mean Absolute Error(MAE)
+* R² or Coefficient of Determination
+* Adjusted R²
+
+## What are MSE and RMSE? 
+MSE stands for Mean Square Error while RMSE stands for Root Mean Square Error. They are metrics with which we can evaluate models.
+
+## What is overfitting? 
+When your model perform very well on your training set but can't generalize the test set, because it adjusted a lot to the training set.
+
+## How to validate your models? 
+
+One of the most common approaches is splitting data into train, validation and test parts. Models are trained on train data, hyperparameters (for example early stopping) are selected based on the validation data, the final measurement is done on test dataset. Another approach is cross-validation: split dataset into K folds and each time train models on training folds and measure the performance on the validation folds. Also you could combine these approaches: make a test/holdout dataset and do cross-validation on the rest of the data. The final quality is measured on test dataset.
+
+
+## Why do we need to split our data into three parts: train, validation, and test? 
+
+The training set is used to fit the model, i.e. to train the model with the data. The validation set is then used to provide an unbiased evaluation of a model while fine-tuning hyperparameters. This improves the generalization of the model. Finally, a test data set which the model has never "seen" before should be used for the final evaluation of the model. This allows for an unbiased evaluation of the model. The evaluation should never be performed on the same data that is used for training. Otherwise the model performance would not be representative.
+
+## What is K-fold cross-validation? 
+
+K fold cross validation is a method of cross validation where we select a hyperparameter k. The dataset is now divided into k parts. Now, we take the 1st part as validation set and remaining k-1 as training set. Then we take the 2nd part as validation set and remaining k-1 parts as training set. Like this, each part is used as validation set once and the remaining k-1 parts are taken together and used as training set. It should not be used in a time series data.
+
+## What is classification? Which models would you use to solve a classification problem? 
+
+Classification problems are problems in which our prediction space is discrete, i.e. there is a finite number of values the output variable can be. Some models which can be used to solve classification problems are: logistic regression, decision tree, random forests, multi-layer perceptron, one-vs-all, amongst others.
+
+
+## What is logistic regression? When do we need to use it? 
+
+Logistic regression is a Machine Learning algorithm that is used for binary classification. You should use logistic regression when your Y variable takes only two values, e.g. True and False, "spam" and "not spam", "churn" and "not churn" and so on. The variable is said to be a "binary" or "dichotomous".
+
+
+## Is logistic regression a linear model? Why? 
+
+Yes, Logistic Regression is considered a generalized linear model because the outcome always depends on the sum of the inputs and parameters. Or in other words, the output cannot depend on the product (or quotient, etc.) of its parameters.
+
+
+## What is sigmoid? What does it do? 
+
+A sigmoid function is a type of activation function, and more specifically defined as a squashing function. Squashing functions limit the output to a range between 0 and 1, making these functions useful in the prediction of probabilities.
+
+Sigmod(x) = 1/(1+e^{-x})
+
+
+## How do we evaluate classification models? 
+
+Depending on the classification problem, we can use the following evaluation metrics:
+
+* Accuracy
+* Precision
+* Recall
+* F1 Score
+* Logistic loss (also known as Cross-entropy loss)
+* Jaccard similarity coefficient score
+
+## What is accuracy? 
+
+Accuracy is a metric for evaluating classification models. It is calculated by dividing the number of correct predictions by the number of total predictions.
+
+## Is accuracy always a good metric? 
+
+Accuracy is not a good performance metric when there is imbalance in the dataset. For example, in binary classification with 95% of A class and 5% of B class, a constant prediction of A class would have an accuracy of 95%. In case of imbalance dataset, we need to choose Precision, recall, or F1 Score depending on the problem we are trying to solve.
+
+## 
+Why do we need one-hot encoding? ‍
+
+If we simply encode categorical variables with a Label encoder, they become ordinal which can lead to undesirable consequences. In this case, linear models will treat category with id 4 as twice better than a category with id 2. One-hot encoding allows us to represent a categorical variable in a numerical vector space which ensures that vectors of each category have equal distances between each other. This approach is not suited for all situations, because by using it with categorical variables of high cardinality (e.g. customer id) we will encounter problems that come into play because of the curse of dimensionality.
+
