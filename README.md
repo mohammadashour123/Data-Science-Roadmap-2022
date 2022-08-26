@@ -2,7 +2,7 @@
 ## DATA SCIENCE ROADMAP 2022
 ![This is an image](https://miro.medium.com/max/700/1*E1haIGB9K4K89PsFZgm-pw.jpeg)
 
-**This repository provide a free courses and tutorials to learn the field of Data Science. I provide some of the best free resources and tutorials in English and Arabic.**
+**This repository provide a free courses and tutorials to learn the field of Data Science , also provide an interview questions and some facts about data science. I provide some of the best free resources and tutorials in English and Arabic.**
 # First, let's answer some important and serious questions
 ## 1- What is  Data Science ?
 * Data science is the study of data. It involves developing methods of recording, storing, and analyzing data to effectively extract useful information. The goal of data science is to gain insights and knowledge from any type of data — both structured and unstructured. 
@@ -191,3 +191,13 @@
 
 
 # Theoretical interview questions
+
+## What is supervised machine learning? 
+Supervised learning is a type of machine learning in which our algorithms are trained using well-labeled training data, and machines predict the output based on that data. Labeled data indicates that the input data has already been tagged with the appropriate output. Basically, it is the task of learning a function that maps the input set and returns an output. Some of its examples are: Linear Regression, Logistic Regression, KNN, etc.
+
+## What is regression? Which models can you use to solve a regression problem?
+Regression is a part of supervised ML. Regression models investigate the relationship between a dependent (target) and independent variable (s) (predictor). Here are some common regression models 
+* Linear Regression establishes a linear relationship between target and predictor (s). It predicts a numeric value and has a shape of a straight line.
+* Polynomial Regression has a regression equation with the power of independent variable more than 1. It is a curve that fits into the data points.
+* Ridge Regression helps when predictors are highly correlated (multicollinearity problem). It penalizes the squares of regression coefficients but doesn’t allow the coefficients to reach zeros (uses L2 regularization).
+* Lasso Regression penalizes the absolute values of regression coefficients and allows some of the coefficients to reach absolute zero (thereby allowing feature selection).
