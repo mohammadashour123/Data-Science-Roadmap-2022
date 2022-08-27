@@ -144,6 +144,7 @@
 
 ### 2. Linear Algebra
 * [Khan Academy - Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
+* [linear algebra for machine learning](https://www.youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a)
 * [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)
 
 ### 3. Calculus
