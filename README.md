@@ -110,6 +110,7 @@
 
 ### 7. Data Visualization
 * [What is  Data Visualization in Arabic ?](https://youtu.be/MTq06WYQ5PI)
+* [Data Visualization in Python Using Matplotlib and Seaborn](https://www.youtube.com/playlist?list=PLNJJ29ohdyWm18ipuHc-m9keFb8Fxbmju)
 * [Arabic Course on Udemy.](https://www.udemy.com/course/data-visualization-in-python-using-matplotlib-and-seaborn/learn/?referralCode=C5AED7BE87917168F992)
 * [Introduction to Data Visualization with Matplotlib](https://www.datacamp.com/users/sign_in?redirect=http%3A%2F%2Fapp.datacamp.com%2Flearn%2Fcourses%2Fintroduction-to-data-visualization-with-matplotlib%3Ffbclid%3DIwAR1OrJSdZ2LVD_c1o3d-_1I7Nhq8OZ3pzTu4010E_XWEmMc0KYsTosz8CIU)
 * [Corey Schafer - Playlist on YouTube](https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)
