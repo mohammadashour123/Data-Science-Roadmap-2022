@@ -63,6 +63,7 @@
 ### 1. Descriptive Statisitcs .
 * [Arabic Course 1](https://www.youtube.com/playlist?list=PLC4LFcwOQGSHbmds9_2ue9Z5kJY9hG71n)
 * [Arabic Course 2](https://www.youtube.com/playlist?list=PLiwp6r-sv0A4i9LXS1IrjJYCIfh5QQCDA)
+* [Mathematics, statistics for data science and machine learning](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuKaU2nBDwr6zrSOTzNCs0l)
 * [Udacity Course](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
 * [Practica Statistics for Data Scientists](https://drive.google.com/file/d/1_SDpyrvcg_Hm9sV0vPiJjCqcGSbbQiGf/view?usp=sharing)
 
@@ -74,6 +75,7 @@
 ### 3. Data Analysis (Python)
 * [Introduction to Python Programming](https://classroom.udacity.com/courses/ud1110)
 * [OOP](https://www.youtube.com/playlist?list=PLUgz8T_NoattU54gGARPXPmmawQNl-1_T)
+* [Data Structures & Algorithms Tutorial in Python](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12)
 
 ### 4. Pandas
 *	[Playlist-YouTube](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
@@ -154,9 +156,9 @@
 * [PCA](https://www.coursera.org/learn/pca-machine-learning)
 
 ### 5 . Machine Learning
+* [7 Dats of Machine Learning](https://www.youtube.com/playlist?list=PLZoTAELRMXVPjaAzURB77Kz0YXxj65tYz)
 * [Coursera Free Course by Andrew Ng (Octave/Matlab)](https://www.coursera.org/learn/machine-learning)
 * [Coursera Andrew new ML Specialization (Python)](https://www.coursera.org/specializations/machine-learning-introduction?_hsenc=p2ANqtz-_R9x3Nm07uCw6YAw9VpCpdjRdfaUFyxdOcvgDljRt7j_NXiahN1plnI_Ob9jn0jSNipuE_Y08llrfPSt_1P7EBvj4LuImpBTKG3bsR6Z9bzjzBoRY&_hsmi=216611333&action=enroll&utm_campaign=mls-launch-2022&utm_content=216613012&utm_medium=email&utm_source=hs_email#courses)
-* [Machine Learning Stanford Full Course on YouTube by Andrew](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 * [Introduction to Machine Learning Course - Udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 * [IBM ML with Python](https://www.coursera.org/learn/machine-learning-with-python)
 * [Project](https://www.coursera.org/learn/applied-data-science-capstone)
